@@ -1,0 +1,594 @@
+{
+  "version": "1.0.0",
+  "techniques": [
+    {
+      "technique_id": "camera.motivated_push_in",
+      "name": "Motivated Push-In",
+      "category": "camera",
+      "core_mechanism": "Constricts frame boundary around focal subject to amplify narrative gravity, internal realization, and eliminate peripheral distractions.",
+      "variants": {
+        "slow_creep": "1.5s–3.5s smooth forward drift → Deepens intimacy, vulnerability, mounting dread",
+        "snap_crash": "0.1s–0.3s digital punch-in (1.15x) → Accents comedy punchline, shock, or eureka moment",
+        "snap_punch": "0.1s–0.3s digital punch-in (1.15x) accenting punchlines, revelations, or shock"
+      },
+      "use_when": [
+        "Narrative pivots from external context to internal realization",
+        "Dialogue transitions from casual setup to high-stakes confession",
+        "Audience attention must isolate a micro-expression or critical prop",
+        "Character notices a critical detail or experiences an internal realization",
+        "Directing audience attention to subtle facial shift or prop"
+      ],
+      "avoid_when": [
+        "Shot duration is under 1.2s (insufficient time for drift to register)",
+        "Scene demands clinical emotional detachment or observational distance",
+        "Unmotivated by subject action, dialogue change, or sonic shift",
+        "Shot duration is under 1.2s",
+        "Scene demands objective emotional detachment",
+        "Movement is unmotivated by subject action or dialogue"
+      ],
+      "evidence_count": 95
+    },
+    {
+      "technique_id": "camera.revealing_pull_out",
+      "name": "Revealing Pull-Out",
+      "category": "camera",
+      "core_mechanism": "Expands the frame from tight subject focus to reveal context, scale, isolation, or an unforeseen threat.",
+      "variants": {
+        "isolation_reveal": "Slow reverse dolly from close-up to wide → Emphasizes loneliness or vulnerability",
+        "spatial_punch": "Fast snap pull-out → Sudden shock reveal of surprising environment or companion"
+      },
+      "use_when": [
+        "Ending an emotional sequence to leave the subject alone in their world",
+        "Punchline depends on context that was previously hidden off-screen",
+        "Transitioning from micro-action to broad spatial orientation",
+        "Ending an emotional sequence to leave subject alone in their world",
+        "Punchline depends on context previously hidden off-screen"
+      ],
+      "avoid_when": [
+        "Opening hook where viewer needs immediate, intimate connection",
+        "Background holds zero narrative information or emotional resonance",
+        "Opening hook where viewer needs immediate intimate connection"
+      ],
+      "evidence_count": 29
+    },
+    {
+      "technique_id": "camera.kinetic_whip_pan",
+      "name": "Kinetic Whip Pan",
+      "category": "camera",
+      "core_mechanism": "High-velocity rotation blurs frame boundaries, transferring kinetic energy directly into the subsequent scene.",
+      "variants": {
+        "teleport_snap": "180-degree blur cut between two different physical locations",
+        "reaction_whip": "Violent rotational whip from speaker to reacting listener"
+      },
+      "use_when": [
+        "Connecting disparate scenes in high-tempo comedic or travel montages",
+        "Eliminating perceived dead space between two dialogue lines",
+        "Creating a kinetic, stylized sense of urgency",
+        "Eliminating perceived dead space between dialogue lines"
+      ],
+      "avoid_when": [
+        "Subdued, contemplative, or somber narrative beats",
+        "Used more than twice in 15s (causes visual fatigue)",
+        "When audience needs to comprehend subtle background geography"
+      ],
+      "evidence_count": 96
+    },
+    {
+      "technique_id": "camera.kinetic_handheld_drift",
+      "name": "Kinetic Handheld Drift",
+      "category": "camera",
+      "core_mechanism": "Organic micro-movements convey human presence, immediacy, and psychological proximity.",
+      "variants": {
+        "organic_float": "Subtle breathing motion → Authentic conversational intimacy",
+        "visceral_shake": "Aggressive handheld motion → Physical chaos, urgency, panic"
+      },
+      "use_when": [
+        "Authentic vlogs, travel verité, or documentary reality",
+        "Subject is physically moving, walking, or actively building",
+        "Breaking robotic studio stiffness to establish creator trust"
+      ],
+      "avoid_when": [
+        "Fine macro product demos requiring crisp stability",
+        "Corporate explainer requiring formal, authoritative polish"
+      ],
+      "evidence_count": 16
+    },
+    {
+      "technique_id": "camera.tactile_pov_action",
+      "name": "First-Person Subjective POV",
+      "category": "camera",
+      "core_mechanism": "Places lens in first-person eye perspective directly over hands interacting with objects, crafts, or tools.",
+      "variants": {
+        "hands_in_frame": "Creator's hands manipulating tools or food in foreground → Tactile immersion",
+        "walking_gaze": "Looking around corners, up at monuments, or into crowds → Exploratory curiosity",
+        "over_the_shoulder": "OTS angle establishing creator presence and subject focus",
+        "first_person_craft": "Top-down or chest-mounted POV showing hands manipulating material"
+      },
+      "use_when": [
+        "Tutorial demonstrations where viewer replicates creator's exact actions",
+        "Travel arrivals where audience explores a new street through creator's eyes",
+        "Unboxing or tactile craft sequences",
+        "Demonstrating physical skill, cooking step, or technical teardown",
+        "Inviting viewer to feel somatic ownership of the action",
+        "Showing physical obstacles or tactile textures up close"
+      ],
+      "avoid_when": [
+        "High-emotion dialogue where facial micro-expressions are essential",
+        "When creator's face and personal charisma carry the retention",
+        "Abstract conceptual or philosophical exposition",
+        "Emotional conversational moments requiring facial expressions"
+      ],
+      "evidence_count": 325
+    },
+    {
+      "technique_id": "editing.match_cut_action",
+      "name": "Geometric / Action Match Cut",
+      "category": "editing",
+      "core_mechanism": "Bridges two distinct scenes by aligning identical visual geometry, action direction, or subject framing across the cut boundary.",
+      "variants": {
+        "action_match": "Motion initiated in Scene A completes fluidly in Scene B → Seamless spatial teleportation",
+        "graphic_match": "Identical shape or silhouette on screen (e.g. coffee mug → sunrise) → Poetic thematic linkage",
+        "object_handover": "Item tossed toward camera in scene A caught in scene B",
+        "directional_stride": "Footstep or hand swipe continuing motion seamlessly into new setting"
+      },
+      "use_when": [
+        "Transitioning across a time jump or location change without losing narrative momentum",
+        "Drawing a symbolic parallel between two disparate subjects or events",
+        "Fast montage sequences where continuous motion disguises scene cuts",
+        "Transitioning between disparate locations or time periods",
+        "Elevating visual craft and rewarding attentive viewer gaze",
+        "Compressing extensive real-time travel or preparation"
+      ],
+      "avoid_when": [
+        "Subtle emotional scenes where conspicuous visual cleverness distracts from dialogue",
+        "When subject alignment is slightly misregistered (feels like an accidental jump cut)",
+        "Disorienting sequences where spatial confusion is the objective",
+        "When source clips lack matching physical momentum"
+      ],
+      "evidence_count": 323
+    },
+    {
+      "technique_id": "editing.j_cut_audio_bridge",
+      "name": "J-Cut Audio Lead",
+      "category": "editing",
+      "core_mechanism": "Next scene's dialogue or sound arrives 0.4s–0.8s before visual cut, psychologically pulling viewer curiosity forward.",
+      "variants": {
+        "dialogue_bleed": "Upcoming voiceover spoken before scene cut → Eliminates hesitation drop-off",
+        "ambient_anticipation": "Loud environment audio arrives while still on quiet scene → Pre-primes audience",
+        "dialogue_pre_lap": "Voice begins speaking over current visuals before cutting to speaker face",
+        "sound_anticipation": "Crashing waves or subway sounds before camera shows new setting"
+      },
+      "use_when": [
+        "Preventing viewer swipe-away at scene transition boundaries",
+        "Smoothing abrupt jumps between talking head and B-roll action",
+        "Introducing an off-screen interruption or sudden arrival",
+        "Softening abrupt scene transitions to feel organically cinematic",
+        "Pulling viewer curiosity forward into next narrative scene",
+        "Building acoustic anticipation for off-screen arrival"
+      ],
+      "avoid_when": [
+        "Moments of sharp simultaneous audiovisual shock",
+        "Shorts with shots under 0.8s where overlapping sound causes muddy clutter",
+        "Abrupt comedy slap cuts designed to produce sudden jarring shocks",
+        "First 0.0-1.0s opening hook where audio must match visual instantly"
+      ],
+      "evidence_count": 20
+    },
+    {
+      "technique_id": "editing.contrast_scale_cut",
+      "name": "Scale & Energy Contrast Cut",
+      "category": "editing",
+      "core_mechanism": "Abrupt cut from extreme close-up (ECU) directly to extreme wide (EW), violently resetting spatial perspective.",
+      "variants": {
+        "macro_to_infinity": "Extreme close-up macro texture cut directly to extreme wide landscape",
+        "kinetic_to_still": "High-velocity motion cut to dead-stop frozen subject",
+        "micro_to_macro": "Tight shot of fingers trembling transitioning to vast empty city square",
+        "shock_isolation": "Wide crowd shot transitioning to suffocating macro close-up of sweating brow"
+      },
+      "use_when": [
+        "Breaking monotonous pacing at the 5s–8s retention cliff",
+        "Dramatizing the difference between expectation and reality",
+        "Punching in for maximum comedic or shock emphasis",
+        "Juxtaposing personal vulnerability against massive external world",
+        "Injecting sudden visual scale after claustrophobic dialogue",
+        "Surprising viewer expectations at narrative turning points"
+      ],
+      "avoid_when": [
+        "Gentle, meditative, or continuous single-action sequences",
+        "Overused back-to-back (disorients spatial comprehension)",
+        "Continuous instructional tutorials requiring steady visual context",
+        "Subtle dialogue exchanges between conversational partners"
+      ],
+      "evidence_count": 75
+    },
+    {
+      "technique_id": "editing.jump_cut_cadence",
+      "name": "Cadence Jump Cut",
+      "category": "editing",
+      "core_mechanism": "Removes breath pauses and non-essential syllables within the same continuous shot to create breathless velocity.",
+      "variants": {
+        "audio_gap_removal": "Trimming audio pauses down to < 0.1s → Relentless information density",
+        "framing_punch_jump": "Alternating between 1.0x and 1.15x scale across speech cuts → Dynamic visual pop",
+        "angle_alternator": "Alternating 1.0x and 1.15x crop every sentence to hide cut seams",
+        "rapid_progression": "Rapid succession of short sub-second cuts showing progressive assembly"
+      },
+      "use_when": [
+        "Opening 0-3s hook to pack maximum thesis into minimum runtime",
+        "High-density tech or productivity tips",
+        "Direct-to-camera monologues needing high energetic momentum",
+        "High-energy explainer, comedic vlog, or educational breakdown",
+        "Condensing complex narrative without dropping vocal momentum",
+        "Preventing retention drop during expository bridges"
+      ],
+      "avoid_when": [
+        "Vulnerable, poetic, or tragic storytelling requiring contemplative breathing room",
+        "High-end cinematic drama where jump cuts shatter visual elegance",
+        "High-emotion confession where hesitation and silence carry the message",
+        "Cinematic scenes demanding realistic spatial continuity"
+      ],
+      "evidence_count": 2091
+    },
+    {
+      "technique_id": "visual_storytelling.recurring_ritual_anchor",
+      "name": "Visual Motif Anchor",
+      "category": "visual_storytelling",
+      "core_mechanism": "Repeats a single physical prop, framing setup, or color cue across distinct story phases to visualize internal transformation.",
+      "variants": {
+        "temporal_anchor": "Same object held at start, middle, and end → Visual proof of time passed and habits built",
+        "emotional_barometer": "State of object degrades or improves alongside creator's journey → Physical metaphor for emotional state",
+        "prop_talisman": "Holding the same coffee mug, notebook, or camera in 3 distinct city settings",
+        "habitual_gesture": "Same breath check, shoe tying, or watch tap opening and closing the piece"
+      },
+      "use_when": [
+        "Showing progress or habit transformation without on-the-nose exposition",
+        "Personal story or vlog where multiple travel locations need a unifying visual thread",
+        "Payoff shot requires emotional callback to the opening premise",
+        "Depicting passage of time, transformation, or adapting to a new city",
+        "Providing emotional grounding amidst chaotic external progression",
+        "Tying ending shot back to opening hook in a satisfying narrative loop"
+      ],
+      "avoid_when": [
+        "Shorts under 3 scenes (insufficient runtime for repetition to establish as a motif)",
+        "When the chosen object lacks organic narrative connection to the creator's subject",
+        "One-off quick hack or simple single-shot comedy skit",
+        "When repeated motif has no emotional or thematic meaning to creator"
+      ],
+      "evidence_count": 226
+    },
+    {
+      "technique_id": "editing.delayed_spatial_reveal",
+      "name": "Delayed Spatial Reveal",
+      "category": "visual_storytelling",
+      "core_mechanism": "Deliberately withholds the full environment through tight framing, building curious tension before revealing where the creator actually is.",
+      "variants": {
+        "macro_tease": "Extreme close-up on hands doing a mundane action, then pulling wide to reveal an extraordinary setting (e.g. edge of a cliff)",
+        "reflection_reveal": "Opening on a mirror or glass reflection before camera steps out into the real room",
+        "fake_studio_reveal": "Creator talking in pristine frame before cut reveals chaotic clutter behind camera",
+        "false_intimacy": "Tight frame appears solitary before cut reveals crowded public train"
+      },
+      "use_when": [
+        "Opening 0-3s hook to pose an immediate visual riddle",
+        "Surprise travel destination reveals",
+        "Challenging audience assumptions before delivering the punchline",
+        "Subverting expectations with comedic or dramatic irony",
+        "Creating curiosity gap about where action takes place",
+        "Delivering a twist punchline based on physical location"
+      ],
+      "avoid_when": [
+        "When the location is ordinary and the reveal produces anti-climax",
+        "Educational tutorials where spatial confusion frustrates the learner",
+        "Factual documentary requiring immediate authentic location proof",
+        "Fast montages where spatial withholding feels confusing rather than witty"
+      ],
+      "evidence_count": 12
+    },
+    {
+      "technique_id": "visual_storytelling.lost_in_crowd_contrast",
+      "name": "Subject Isolation Contrast",
+      "category": "visual_storytelling",
+      "core_mechanism": "Frames the creator static while surrounding environment blurs with motion or crowd chaos, externalizing internal alienation.",
+      "variants": {
+        "motion_blur_crowd": "Slow shutter or high crowd flow moving past stationary creator",
+        "negative_space_wide": "Subject occupies under 10% of frame surrounded by massive empty architectural scale",
+        "time_lapse_freeze": "Subject still while timelapse crowd streams around them",
+        "shallow_depth_isolation": "Subject in sharp focus while rushing crowd is thrown into soft bokeh"
+      },
+      "use_when": [
+        "Expressing culture shock, loneliness, or new-city disorientation",
+        "Representing focus and calmness in the midst of digital overwhelm",
+        "Visualizing an underdog facing systemic obstacles",
+        "Communicating internal alienation, culture shock, or sensory overwhelm",
+        "Showing the feeling of time standing still while the world hurries on",
+        "Symbolizing loneliness in a crowded city without saying words"
+      ],
+      "avoid_when": [
+        "Upbeat collaborative or group party sequences",
+        "Cramped interiors where negative space cannot be achieved",
+        "Upbeat collaborative group vlogs",
+        "Educational tutorials where static subject looks awkward or unmotivated"
+      ],
+      "evidence_count": 128
+    },
+    {
+      "technique_id": "sound_rhythm.pre_reveal_silence",
+      "name": "Pre-Reveal Sudden Silence",
+      "category": "sound_rhythm",
+      "core_mechanism": "Cuts background music and ambient audio completely to create vacuum tension before a climax, punchline, or realization.",
+      "variants": {
+        "micro_vacuum": "0.3s–0.5s total audio drop immediately before visual impact → Maximizes punchline contrast",
+        "extended_hush": "1.0s–2.0s silence with subtle breathing/room tone → Signals high vulnerability or shock",
+        "needle_drop_hush": "Music cuts abruptly leaving only creator breath or room tone",
+        "sound_vacuum": "Fades frequencies into hollow muffled vacuum before sonic slam"
+      },
+      "use_when": [
+        "0.4s preceding an unexpected punchline, plot twist, or visual gag",
+        "Resetting viewer sensory saturation before a major audio beat drop",
+        "Emphasizing that an irreversible mistake has just occurred",
+        "Punchline delivery in comedy or surprising plot twist",
+        "Pivoting to high vulnerability in personal storytelling",
+        "Forcing viewer brain into focused auditory attention"
+      ],
+      "avoid_when": [
+        "Continuous monologues with no clear punchline or payoff (creates awkward dead air)",
+        "Shorts that rely on synchronized lyric-dancing tracks where an audio cut breaks the viral beat",
+        "Fast montage sequences driven by steady music rhythm",
+        "When audio quality has high background hiss that makes silence jarring"
+      ],
+      "evidence_count": 55
+    },
+    {
+      "technique_id": "editing.sensory_slap_cut",
+      "name": "Syncopated SFX Impact",
+      "category": "sound_rhythm",
+      "core_mechanism": "Syncs concrete, high-frequency sound effects (whoosh, click, mechanical snap, sub-bass thump) to visual changes to stimulate auditory reward.",
+      "variants": {
+        "kinetic_whoosh": "Low-sub whoosh on whip-pans and fast text card entrances",
+        "tactile_foley": "Amplified mechanical clicks and snaps synced to button pushes or lock turns",
+        "tactile_snap": "Cut synced with physical impact (door slam, knife chop, glass tap)",
+        "whoosh_slam": "Cut punctuated by low-end riser followed by instantaneous impact"
+      },
+      "use_when": [
+        "Text title cards or graphic stickers animating onto screen",
+        "Cut transitions between high-speed montages",
+        "Emphasizing physical action in DIY, cooking, or tech unboxings",
+        "Punctuate punchlines or sudden twists",
+        "Creating visceral tactile immersion in food, tech, or fitness",
+        "Shocking passive viewers back into active engagement"
+      ],
+      "avoid_when": [
+        "Quiet emotional moments where mechanical sound effects feel cheap and distracting",
+        "Placing repetitive whooshes on every cut (fatigues auditory processing)",
+        "Gentle lyrical or meditative reflection",
+        "Overused consecutively more than 3 times without rhythmic breather"
+      ],
+      "evidence_count": 565
+    },
+    {
+      "technique_id": "sound_rhythm.bpm_drop_surge",
+      "name": "Tension Riser Crescendo",
+      "category": "sound_rhythm",
+      "core_mechanism": "Cuts music rhythm on conflict beat and drops heavy bass and percussion surge when transformation explodes.",
+      "variants": {
+        "white_noise_riser": "Rising synth sweep preceding an explosive visual reveal",
+        "ticking_clock": "Accelerating acoustic ticking building urgency toward an impending deadline",
+        "bass_drop_reveal": "Low sub-bass boom hits frame 1 of visual transformation",
+        "tempo_double_time": "Transition from slow atmospheric pads to fast driving rhythm"
+      },
+      "use_when": [
+        "Countdowns or race-against-the-clock sequences",
+        "Building anticipation for a high-stakes challenge or test",
+        "Transitioning from problem agitation to climactic solution",
+        "Visual payoff moments, before-and-after reveals, or dramatic transformations",
+        "Synchronizing athletic peaks or triumphant project completions",
+        "Rewarding viewer for waiting through tension loop"
+      ],
+      "avoid_when": [
+        "Low-stakes everyday moments where artificial drama feels unearned and clickbaity",
+        "When there is no immediate payoff or punch at the peak of the rise",
+        "Low-key introspective vlogs or quiet lifestyle content",
+        "Videos where speech needs to remain soft and meditative"
+      ],
+      "evidence_count": 16
+    },
+    {
+      "technique_id": "camera.intimate_closeup",
+      "name": "Intimate Direct Close-Up",
+      "category": "camera",
+      "core_mechanism": "Frames face in MCU/CU with direct gaze into lens, collapsing parasocial distance and establishing instant connection.",
+      "variants": {
+        "unfiltered_confession": "Eye-level CU with natural lighting for vulnerability and authentic truth",
+        "high_energy_shout": "Tight framing with dynamic micro-handheld motion for raw viral charisma"
+      },
+      "use_when": [
+        "Opening hook within first 1.5s to capture eye gaze",
+        "Delivering core thesis or vulnerable confession",
+        "Direct personal epiphany or emotional turning point"
+      ],
+      "avoid_when": [
+        "Demonstrating hands-on physical craft requiring tool visibility",
+        "When spatial relationship between multiple characters matters"
+      ],
+      "evidence_count": 764
+    },
+    {
+      "technique_id": "camera.subject_tracking_stride",
+      "name": "Subject Tracking Stride",
+      "category": "camera",
+      "core_mechanism": "Maintains steady distance while walking backwards or alongside creator navigating an active environment.",
+      "variants": {
+        "backwards_walk_lead": "Camera retreats as creator walks forward talking directly to camera",
+        "profile_stride": "Side-profile tracking shot capturing environment passing in background"
+      },
+      "use_when": [
+        "Transitioning between story beats or physical locations",
+        "Conveying momentum, energy, and real-time journey progression",
+        "Immersing viewer into a dynamic, bustling setting"
+      ],
+      "avoid_when": [
+        "Intricate technical explanations requiring focused attention",
+        "Cramped indoor spaces where tracking introduces erratic wobble"
+      ],
+      "evidence_count": 347
+    },
+    {
+      "technique_id": "camera.observational_static_wide",
+      "name": "Observational Static Wide",
+      "category": "camera",
+      "core_mechanism": "Locked-off wide perspective allowing human action or environmental motion to unfold naturally without camera manipulation.",
+      "variants": {
+        "isolated_figure": "Subject stationary in center while environment rushes past",
+        "environmental_canvas": "Wide framing establishing grand architecture or scale of setting"
+      },
+      "use_when": [
+        "Communicating alienation, stillness, or contemplation in a bustling world",
+        "Establishing geographic context before cutting inside",
+        "Creating rhythmic pause after rapid montage"
+      ],
+      "avoid_when": [
+        "High-energy hook requiring immediate thumb-stopping motion",
+        "Dialogue-heavy segments where mouth and micro-expressions are obscured"
+      ],
+      "evidence_count": 138
+    },
+    {
+      "technique_id": "camera.dynamic_orbit",
+      "name": "Dynamic Subject Orbit",
+      "category": "camera",
+      "core_mechanism": "Revolving parabolic trajectory orbiting creator, turning stationary exposition into cinematic visual parallax.",
+      "variants": {
+        "half_arc_reveal": "180-degree sweep moving from subject back to reveal front expression and horizon",
+        "rapid_spin_swirl": "360-degree kinetic orbit emphasizing peak triumph or dizziness"
+      },
+      "use_when": [
+        "Highlighting a climactic transformation or milestone reveal",
+        "Adding cinematic production value to static monologue",
+        "Creating separation between subject and dynamic background"
+      ],
+      "avoid_when": [
+        "Somber, grounded documentary moments",
+        "Rapid instructional step-by-step demonstrations"
+      ],
+      "evidence_count": 7
+    },
+    {
+      "technique_id": "visual_storytelling.subjective_pov_discovery",
+      "name": "Subjective POV Discovery",
+      "category": "visual_storytelling",
+      "core_mechanism": "Follows creator gaze vector: shows curious or shocked facial reaction first, then cuts to what they are seeing.",
+      "variants": {
+        "gaze_match_cut": "Eyes widen in MCU transitioning to hard cut of bizarre sight on street",
+        "slow_turn_reveal": "Creator turns head slowly as camera pans with their perspective"
+      },
+      "use_when": [
+        "Engaging viewer curiosity before showing payoff",
+        "Sharing personal subjective experience and unfiltered emotional discovery",
+        "Making viewer actively hunt for details in environment"
+      ],
+      "avoid_when": [
+        "Fast informational recaps where reaction shot slows down pacing",
+        "When object being looked at is mundane or anticlimactic"
+      ],
+      "evidence_count": 44
+    },
+    {
+      "technique_id": "visual_storytelling.micro_payoff_breadcrumb",
+      "name": "Micro-Payoff Breadcrumb Trail",
+      "category": "visual_storytelling",
+      "core_mechanism": "Dispenses mini-reveals, visual dopamine hits, or tactile successes every 5–8 seconds to sustain long-form tension.",
+      "variants": {
+        "step_reward": "Showing sizzling sear of meat before finishing the whole recipe",
+        "partial_reveal": "Showing quick 0.3s glimpse of finished project before explaining step 2"
+      },
+      "use_when": [
+        "Complex stories or multi-step processes exceeding 35 seconds",
+        "Maintaining retention above 80% on high-concept builds",
+        "Counteracting audience fatigue during technical exposition"
+      ],
+      "avoid_when": [
+        "Ultra-short 15-second jokes where single punchline suffices",
+        "Stories where premature reveal destroys climax twist"
+      ],
+      "evidence_count": 181
+    },
+    {
+      "technique_id": "visual_storytelling.pattern_interrupt_reset",
+      "name": "Pattern Interrupt Attention Reset",
+      "category": "visual_storytelling",
+      "core_mechanism": "Injects an abrupt aesthetic, sonic, or tempo deviation at second 7-10 to shatter monotony and prevent swipe-away.",
+      "variants": {
+        "acoustic_dead_air": "Lively music drops instantly to complete silence for 0.8s on a deadpan look",
+        "visual_format_glitch": "Slick cinematic b-roll suddenly cuts to raw low-fi mobile selfie"
+      },
+      "use_when": [
+        "Approaching universal 8-12 second retention drop-off cliff",
+        "After sustained 6-second stretch of uniform visual rhythm",
+        "Transitioning from exposition into primary story conflict"
+      ],
+      "avoid_when": [
+        "Within first 1.5 seconds (belongs in hook phase)",
+        "During emotional climaxes where continuous immersion is essential"
+      ],
+      "evidence_count": 25
+    },
+    {
+      "technique_id": "sound_rhythm.micro_foley_punctuation",
+      "name": "Micro-Foley Punctuation",
+      "category": "sound_rhythm",
+      "core_mechanism": "Layers hyper-tactile micro-sound effects (crisp crunch, pop, thud, click, sizzle) directly onto physical actions.",
+      "variants": {
+        "tactile_foley": "Amplified organic textures (coffee grounds crunch, knife slice, lock click)",
+        "interface_ui": "Subtle digital clicks, camera shutters, or typewriter taps synced to text"
+      },
+      "use_when": [
+        "Accentuating physical crafts, culinary moments, or hardware interactions",
+        "Elevating perceived production value on mobile-shot footage",
+        "Pairing with kinetic text captions for multi-sensory retention"
+      ],
+      "avoid_when": [
+        "Serious emotional eulogies or solemn discussions",
+        "Overlayering until it forms muddy wall of sound"
+      ],
+      "evidence_count": 169
+    },
+    {
+      "technique_id": "sound_rhythm.acoustic_vocal_isolation",
+      "name": "Acoustic Vocal Isolation",
+      "category": "sound_rhythm",
+      "core_mechanism": "Isolates human voice in crisp, dry proximity without reverberation or musical bed, creating unfiltered authenticity.",
+      "variants": {
+        "whisper_proximity": "Close-mic proximity effect creating intimate connection",
+        "unrehearsed_stumble": "Preserving slight vocal hitch or laugh proving moment is unscripted"
+      },
+      "use_when": [
+        "Delivering hard truths, raw confessions, or behind-the-scenes reality",
+        "Contrasting against loud commercial video aesthetics",
+        "Establishing deep emotional trust with audience"
+      ],
+      "avoid_when": [
+        "Hype-driven viral trends or fitness motivation montages",
+        "When ambient environmental background noise drowns out speech"
+      ],
+      "evidence_count": 425
+    },
+    {
+      "technique_id": "sound_rhythm.ambient_texture_layer",
+      "name": "Atmospheric Ambient Texture Layer",
+      "category": "sound_rhythm",
+      "core_mechanism": "Uses spatial environmental stereo recordings (distant siren, café murmur, rustling leaves) to ground scene in physical reality.",
+      "variants": {
+        "city_soundscape": "Layered traffic rumble, crosswalk beeps, and murmurs under dialogue",
+        "naturalistic_quiet": "Wind whistling and subtle room reverberation"
+      },
+      "use_when": [
+        "Establishing physical place in travel, lifestyle, or documentary storytelling",
+        "Preventing sterile studio silence in talking-head videos",
+        "Allowing cuts between different visual angles without breaking sonic continuity"
+      ],
+      "avoid_when": [
+        "Fast comedic screen-recorded memes or kinetic graphic explainers",
+        "When dialogue intelligibility is compromised by ambient clutter"
+      ],
+      "evidence_count": 137
+    }
+  ]
+}

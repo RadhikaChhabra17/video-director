@@ -1,0 +1,16 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+.cache
+.env
+output
+corpus/data
+corpus/director_output
+audio_exports
+frontend/node_modules
+extra
+*.log
+
+
